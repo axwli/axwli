@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hey, I'm Amanda! 👋
 
+I am an undergraduate student at UC Davis, where I'm studying Data Science. I'm interested in researching the mathematical models behind human behavior and complexity.
+
+- 🔭 I'm currently interning at SLAC National Accelerator Laboratory.
+- 📕 At school, I work as a data analytics consultant. Various departments, like Athletics, or the Food Pantry, call me up to help them interpret data.
+- 💡 Fun fact: my goal is to run every street in Davis before I graduate.
+
+You can reach me at axwli [at] ucdavis [dot] edu.
 <!--
 **axwli/axwli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
