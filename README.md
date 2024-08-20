@@ -6,7 +6,7 @@ I am an undergraduate student at UC Davis, where I'm studying Data Science. I'm 
 - 📕 At school, I work as a data analytics consultant. Various departments, like Athletics, or the Food Pantry, call me up to help them interpret data.
 - 💡 Fun fact: my goal is to run every street in Davis before I graduate.
 
-My coursework includes: Data Structures; Algorithms; Databases; Statistical Data Science; Simulating Communication Processes. My favorite class was an upper-div history seminar on comics and graphic novels.
+My coursework includes: Data Structures; Algorithms; Databases; Statistical Data Science; Simulating Communication Processes. My favorite class was a comparitive history seminar on graphic novels.
 
 📫 You can reach me at axwli [at] ucdavis [dot] edu.
 <!--
