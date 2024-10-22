@@ -1,1 +1,3 @@
-I'm a third year undergraduate at UC Davis, where I am studying Data Science. I am primarily interested in using mathematical models to research emergent behavior within socio-cultural anthropology.
+I'm Amanda, co' 2026 undergrad studying Data Science at UC Davis. I come from Foster City, California, the Venice of the Bay Area. I'm fascinated by sticky stuff (network theory), chaotic stuff (governance structures), and stuff-that-should've-been-named-differently (behavioral economics).
+
+Reach me at [axwli]@ucdavis.edu
